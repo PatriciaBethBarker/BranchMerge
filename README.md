@@ -30,7 +30,7 @@ You're in charge of the HTML file in your repo, as they are in theirs.  Be respe
 
 Assignment Complete: Your assignment will be complete when you have:
 
-    Participated in editing and adding to the HTML file that is in the repo of at least 2 others in your group
-    Resolved at least one merge conflict in your repo
-    Once the above is completed, posted a link to your repo, specifically to the Issues page where you identify the details of the merge conflict that you had to resolve and how you worked it out. 
+Participated in editing and adding to the HTML file that is in the repo of at least 2 others in your group
+Resolved at least one merge conflict in your repo
+Once the above is completed, posted a link to your repo, specifically to the Issues page where you identify the details of the merge conflict that you had to resolve and how you worked it out. 
 
