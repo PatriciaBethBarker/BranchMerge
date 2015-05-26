@@ -33,4 +33,3 @@ Assignment Complete: Your assignment will be complete when you have:
     Resolved at least one merge conflict in your repo
     Once the above is completed, posted a link to your repo, specifically to the Issues page where you identify the details of the merge conflict that you had to resolve and how you worked it out. 
 
-References: Below are some resources to help us branch, checkout and merge:
