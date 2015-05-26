@@ -1,0 +1,2 @@
+# BranchMerge
+conflict resolution scenarios
