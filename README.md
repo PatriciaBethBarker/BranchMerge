@@ -15,7 +15,8 @@ Create a Repo with an HTML Page: Create a public Git repo and add your group mem
     A single HTML Page of musical artist albums you listen to while developing
     A single HTML Page of links to PHP or JavaScript resources, etc.
 
-Branch: Once you have an initial HTML page in your repo, create a branch and do some more work on your HTML page.  Feel free to work on your new branch and make as many changes as you wish.  Be sure not to merge your branch until others in your group have branched and changed the repo as well. 
+Branch: Once you have an initial HTML page in your repo, create a branch and do some more work on your HTML page.  Feel free to work on your new branch and make as many changes as you wish.  
+Be sure not to merge your branch until others in your group have branched and changed the repo as well. 
 
 Conflicts Wanted: In order to get the most out of this assignment, we want there to be merge conflicts.  Using a single file in the repo and allowing others to collaborate and create their own branches and merge allows us to practice our merge conflict skills in a low risk environment.
 
